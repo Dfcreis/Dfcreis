@@ -12,6 +12,8 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnol
   <a href="https://https://github.com/Dfcreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dfcreis&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="right" height="220em"
+width="270em" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Clipart-Background.png"/>
   
 </div>
 
