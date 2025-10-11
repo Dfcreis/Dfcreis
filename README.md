@@ -9,7 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnol
 📭Contate-me: danieldfcreis@gmail.com
 
 <div>
-  <a href="https://https://github.com/Dfcreis">
+  <a href="https://github.com/Dfcreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dfcreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dfcreis&layout=compact&langs_count=9&theme=midnight-purple"/>
   <img align="right" height="220em"
