@@ -10,8 +10,8 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnol
 
 <div>
   <a href="https://www.instagram.com/dfcreis/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfcreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfcreis&layout=compact&langs_count=9&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dfcreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dfcreis&layout=compact&langs_count=9&theme=midnight-purple"/>
   <img align="right" height="220em"
 width="270em" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Clipart-Background.png"/>
   
