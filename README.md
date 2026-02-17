@@ -103,7 +103,7 @@ Em breve você encontrará aqui:
 
 ---
 
-## 🐍 Snake Animation (Contribuições)
+
 
 <div align="center">
 
