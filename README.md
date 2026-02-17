@@ -131,7 +131,7 @@ Em breve você encontrará aqui:
 
 <div align="center">
 
-### ✨ "Sempre aprendendo, evoluindo e codando rumo ao infinito." 🚀
+### 💢 “Disciplina é escolher entre o que você quer agora e o que quer mais.” 🚀
 
 </div>
 
