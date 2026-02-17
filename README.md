@@ -1,41 +1,142 @@
+<div align="center">
 
+<!-- 🌌 GALAXY BANNER -->
 
-# 🤖Olá, Eu sou Daniel Fernandes 
-### Futuro Desenvolvedor Back-end
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Daniel%20Fernandes&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e programação. Gosto de aprender coisas novas, trocar experiências e compartilhar conhecimento com outras pessoas. Meu objetivo é crescer como desenvolvedor e construir soluções que realmente façam a diferença.
+<!-- 🪐 TYPING SVG -->
 
-🌱Estudando: Analise Desenvolvimento de Sistemas (ADS)</br>
-📭Contate-me: danieldfcreis@gmail.com
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Java;Estudante+ADS;Backend+em+forma%C3%A7%C3%A3o;Open+to+Work"/>
 
-<div>
-  <a href="https://www.instagram.com/dfcreis/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dfcreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dfcreis&layout=compact&langs_count=9&theme=midnight-purple"/>
-  <img align="right" height="220em"
-width="270em" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Clipart-Background.png"/>
-  
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align=r
+---
+
+# 👨‍💻 Daniel Fernandes
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+💼 **Buscando oportunidade de Estágio ou Desenvolvedor Júnior**
+📍 **Brasil**
+
+---
+
+## 🌌 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento backend.
+Tenho focado meus estudos na construção de aplicações robustas com **Java**, integração com bancos de dados e criação de **APIs REST**.
+
+Estou em constante evolução, desenvolvendo projetos práticos e aprofundando conhecimentos em arquitetura backend, boas práticas e mercado de tecnologia.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu possa:
+
+* Aplicar meus conhecimentos em **Java Backend**
+* Aprender com desenvolvedores experientes
+* Contribuir em projetos reais
+* Evoluir tecnicamente e profissionalmente
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,git,github,idea,vscode" />
+
 </div>
- <hr>
 
- 
-<div>
-  <a href="https://www.instagram.com/Dfcreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-fernandes-b27947380/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### 🧠 Conhecimentos principais
+
+* Java Orientado a Objetos
+* JDBC
+* MySQL
+* Python (iniciante)
+* Spring Boot (iniciante)
+
+---
+
+## 📚 Atualmente estudando
+
+* Backend com Java
+* APIs REST
+* Banco de Dados
+* Estrutura de Dados
+* Spring Boot
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dfcreis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dfcreis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
 </div>
 
+<div align="center">
 
-<hr>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfcreis/Dfcreis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfcreis/Dfcreis/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dfcreis/Dfcreis/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://streak-stats.demolab.com?user=Dfcreis&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 🛰️ Projetos em Destaque
+
+<div align="center">
+
+🚧 *Em construção…* 🚧
+
+Em breve você encontrará aqui:
+
+✨ APIs REST com Spring Boot
+✨ Sistemas Java com JDBC
+✨ Integrações com Banco de Dados
+✨ Projetos acadêmicos e práticos
+
+</div>
+
+---
+
+## 🐍 Snake Animation (Contribuições)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/daniel-fernandes-b27947380/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/dfcreis/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Sempre aprendendo, evoluindo e codando rumo ao infinito." 🚀
+
+</div>
+
+---
+
+<!-- FOOTER GALAXY -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
