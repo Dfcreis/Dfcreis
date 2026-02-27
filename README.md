@@ -90,14 +90,18 @@ Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu po
 
 <div align="center">
 
-🚧 *Em construção…* 🚧
+### 💾 Java DAO com JDBC
+📌 Projeto backend em Java utilizando padrão DAO e JDBC puro para manipulação de dados em banco relacional.
 
-Em breve você encontrará aqui:
+🔹 CRUD completo (Create, Read, Update, Delete)  
+🔹 Padrão DAO + Factory  
+🔹 Conexão via db.properties  
+🔹 Organização em camadas (entities, dao, impl)  
+🔹 Integração com MySQL  
 
-✨ APIs REST com Spring Boot
-✨ Sistemas Java com JDBC
-✨ Integrações com Banco de Dados
-✨ Projetos acadêmicos e práticos
+<a href="https://github.com/Dfcreis/demo-dao-jbdc" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
