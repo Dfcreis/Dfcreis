@@ -86,36 +86,9 @@ Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu po
 
 ---
 
-## 🛰️ Projetos em Destaque
-
-<div align="center">
-
-### 💾 Java DAO com JDBC
-📌 Projeto backend em Java utilizando padrão DAO e JDBC puro para manipulação de dados em banco relacional.
-
-🔹 CRUD completo (Create, Read, Update, Delete)  
-🔹 Padrão DAO + Factory  
-🔹 Conexão via db.properties  
-🔹 Organização em camadas (entities, dao, impl)  
-🔹 Integração com MySQL  
-
-<a href="https://github.com/Dfcreis/demo-dao-jbdc" target="_blank">
-  <img src="https://img.shields.io/badge/🔗%20Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
+🛰️ Projetos em Destaque
+💰 Java Finance Control
+<a href="https://github.com/Dfcreis/Java-Finance-Control" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dfcreis&repo=Java-Finance-Control&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </a> <br> <a href="https://github.com/Dfcreis/Java-Finance-Control" target="_blank"> <img src="https://img.shields.io/badge/🔗%20Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 ## 🌐 Redes Sociais
 
