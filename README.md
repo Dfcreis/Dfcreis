@@ -44,7 +44,7 @@ Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu po
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,git,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode" />
 
 </div>
 
