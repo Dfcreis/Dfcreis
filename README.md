@@ -53,7 +53,6 @@ Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu po
 * Java Orientado a Objetos
 * JDBC
 * MySQL
-* Python (iniciante)
 * Spring Boot (iniciante)
 
 ---
