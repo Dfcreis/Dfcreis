@@ -44,7 +44,7 @@ Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu po
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,git,github,idea,vscode" />
 
 </div>
 
@@ -53,7 +53,8 @@ Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu po
 * Java Orientado a Objetos
 * JDBC
 * MySQL
-* Spring Boot (iniciante)
+* Spring Boot
+* Docker
 
 ---
 
@@ -64,6 +65,7 @@ Busco uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu po
 * Banco de Dados
 * Estrutura de Dados
 * Spring Boot
+* Docker
 
 ---
 
